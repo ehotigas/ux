@@ -17,3 +17,8 @@ https://drive.google.com/drive/folders/1GzxQjtrZ-l8Bn4KRz-af64mhOlOW0p7y
 
 ## Comentários
 Na pesquisa entendemos os processos de avaliação de jogos, desde a seleção rigorosa de testers com ênfase na empatia e atenção, até as fases abrangentes de testes realizadas em duplas, a comunicação direta com os desenvolvedores e os desafios enfrentados, como a falta de experiência e a gestão do tempo. A entrevista sugeriu a possibilidade de melhoria na adoção de ferramentas especializadas, e a gravação dos testes para análises mais profundas, visando aprimorar a qualidade dos jogos desenvolvidos pelo CEGI.
+
+
+## Protótipo de baixa fidelidade
+Segue o link para o protótipo de baixa fidelidade realizado no Balsamiq.
+https://drive.google.com/file/d/18PhhYIoh3po8MgcMcUTtOAiiE6uIWgk7/view?usp=sharing
