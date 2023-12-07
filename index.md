@@ -1,5 +1,10 @@
 # CEGI
 
+## Integrantes do grupo
+Lécio Oliveira Gonçalves de Assis 146716
+Lucas Santiago de Paiva Pereira 150080
+Tiago Henrique dos Santos Andrade 148303
+
 ## Descrição Projeto
 Desenvolver uma ferramenta para auxiliar na avaliação de qualidade de jogos para os testers do CEGI (Centro de Estudos em Games e Internet) ao fim do processo da criação de jogos para garantir sua qualidade em design. Focar no processo interno de avaliação de design pelos testers.
 
@@ -22,3 +27,7 @@ Na pesquisa entendemos os processos de avaliação de jogos, desde a seleção r
 ## Protótipo de baixa fidelidade
 Segue o link para o protótipo de baixa fidelidade realizado no Balsamiq.
 https://drive.google.com/file/d/18PhhYIoh3po8MgcMcUTtOAiiE6uIWgk7/view?usp=sharing
+
+## Protótipo de baixa fidelidade
+Segue o link para o protótipo de alta fidelidade realizado no Figma.
+https://www.figma.com/file/MgtziAwRRVaMLEDrNhg0tr/UX-CEGI?type=design&node-id=0-1&mode=design
