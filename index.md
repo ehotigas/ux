@@ -28,6 +28,6 @@ Na pesquisa entendemos os processos de avaliação de jogos, desde a seleção r
 Segue o link para o protótipo de baixa fidelidade realizado no Balsamiq.
 https://drive.google.com/file/d/18PhhYIoh3po8MgcMcUTtOAiiE6uIWgk7/view?usp=sharing
 
-## Protótipo de baixa fidelidade
+## Protótipo de alta fidelidade
 Segue o link para o protótipo de alta fidelidade realizado no Figma.
 https://www.figma.com/file/MgtziAwRRVaMLEDrNhg0tr/UX-CEGI?type=design&node-id=0-1&mode=design
