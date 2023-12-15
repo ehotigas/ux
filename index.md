@@ -31,3 +31,6 @@ https://drive.google.com/file/d/18PhhYIoh3po8MgcMcUTtOAiiE6uIWgk7/view?usp=shari
 ## Protótipo de alta fidelidade
 Segue o link para o protótipo de alta fidelidade realizado no Figma.
 https://www.figma.com/file/MgtziAwRRVaMLEDrNhg0tr/UX-CEGI?type=design&node-id=0-1&mode=design
+
+## Apresentação
+https://docs.google.com/presentation/d/1fpMxuJCwix4IkZeaVwXtwlpJw_mcKh5x1CHjNlCkQf8/edit?usp=sharing
